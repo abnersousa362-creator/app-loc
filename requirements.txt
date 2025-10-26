@@ -1,6 +1,10 @@
+fastapi
+uvicorn
+pandas
+python-multipart
 streamlit
 pandas
-numpy
 pillow
 pdf2image
 pytesseract
+
